@@ -1,8 +1,8 @@
 /*
   Joan Chirinos
- APCS2 pd08
- HW52 -- Grow and Shrink
- 2018-05-22
+  APCS2 pd08
+  HW52 -- Grow and Shrink
+  2018-05-22
  */
 
 //instance vars
